@@ -21,5 +21,5 @@ export default function Home() {
   
   )
 
-  // font-family: 'Varela Round', sans-serif;
+  
 }
